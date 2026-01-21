@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Pulse Chat",
+  "description": "A high-performance, aesthetically pleasing AI chatbot built with React, Tailwind, and the Gemini API, featuring streaming responses and a modern interface.",
+  "requestFramePermissions": []
+}
